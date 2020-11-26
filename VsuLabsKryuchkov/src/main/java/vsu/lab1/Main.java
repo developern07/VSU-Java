@@ -1,7 +1,7 @@
 package vsu.lab1;
 
 /**
- * Main function, where we test different actions (add, remove, print, printNode)
+ * Main class, where we test different actions (add, remove, print, printNode)
  */
 public class Main {
     public static void main(String[] args) {
